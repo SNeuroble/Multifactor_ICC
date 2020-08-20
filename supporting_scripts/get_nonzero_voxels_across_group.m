@@ -1,4 +1,4 @@
-function [masked_data,gmmask_composite] = get_masked_data_special_trav(data,gmmask)
+function [masked_data,gmmask_composite] = get_nonzero_voxels_across_group(data,gmmask)
 % for traveling subjects: mask w gm_mask, then calculate common mask of all nonzero voxels and re-mask
 % gmmask = load_untouch_nii('/Users/stephanie/Documents/data/traveling_subs/5thpass_template_GM_WM_CSF_resl_crop_resampled.nii.gz');
 
