@@ -20,3 +20,4 @@ Noble, S., Spann, M. N., Tokoglu, F., Shen, X., Constable, R. T., & Scheinost, D
 
 Noble, S., Scheinost, D., Finn, E. S., Shen, X., Papademetris, X., McEwen, S. C., ... & Mirzakhanian, H. (2017). Multisite reliability of MR-based functional connectivity. Neuroimage, 146, 959-970.
 
+Webb, N.M., Shavelson, R.J. and Haertel, E.H., 2006. Reliability coefficients and generalizability theory. Handbook of statistics, 26, pp.81-124.
